@@ -1,0 +1,24 @@
+
+格栅系统:
+	
+	<div class=container>
+		# 每一行,合计col=12列
+		<div class='row'>
+			# md在
+			# 占3列
+			<div class='col-md-3'>...</div>
+			
+			# 占9列
+			<div class='col-md-9'>...</div>
+		</div>	
+		
+	</div>	
+	
+
+
+
+响应式布局:
+	
+	
+
+
