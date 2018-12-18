@@ -1,0 +1,49 @@
+网络数据传输？
+	数据格式（数据封装）：
+		Ethernet数据包：1522Bytes（head 22Bytes）
+			head（22Bytes）+	payload（1500Bytes）
+							IP_head（20bytes）+ payload(1480bytes)
+												TCP_head（20Bytes）+payload（1400Bytes）
+
+	网络数据传输类似于快递，快递信息，例如收件人、发件人、数据信息（按照一定格式封装、拆包）。
+	具体参考：	https://blog.csdn.net/u012351051/article/details/83352021
+
+
+OSI 7层/5层协议？
+	从应用产生数据到主机将数据发送出去的逐层对数据封装的过程：
+	1、应用层：http协议（URL：请求头、请求体）
+
+	
+	2、传输层：利用TCP、UDP协议
+		TCP的最大实际负载为1400Bytes，所以若数据量很多，会分多个包发送，且每个包都带有seq序列号。
+		TCP 数据包里面有一个端口（port）参数，就是用来指定转交给监听该端口的应用程序。
+		TCP特点：
+			1、不会丢包。例如A发送第一个包（seq=1，8bytes_data），B返回应该返回（ack=9），
+			若第二个包（seq=2，12bytes——data）没收到，则B仍然返回（ack=9），若B连续三次返回ack=9，那么A会再次发送（seq=1,8bytes_data），以此保证数据的完整性。
+
+		UDP特点：
+
+	3、网络层：IP地址规定了局域网之间的互通，允许某个局域网的A主机向另一个局域网的B主机发送消息。
+
+	4、链路层
+		Ethernet协议：规定电信号如何组成packet，只能解决局域网点对点的通讯。
+			head-18bytes，本机mac（6bytes）+目标机mac（6bytes）+数据描述（6bytes）
+			data-（46-1500bytes）：真正的包裹。
+
+	5、物理层（高低电平信号）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
