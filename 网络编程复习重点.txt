@@ -1,6 +1,4 @@
-
-
-
+github:   https://github.com/Fangqihan/python_review_codes.git
 
 网络数据传输？
 	数据格式（数据封装）：
@@ -45,7 +43,8 @@ OSI 7层/5层协议？
 
 TCP的三次握手
 	SYN：synchronize sequence number，同步序列号，SYN=1表示需要建立TCP连接。
-	ACK：acknowledgement，确认信号
+	ACK：acknowledgement，确认信号。
+	Seq=x是随机生成的序列号。
 
 	1、客户机A发送SYN=1，Seq=X（随机生成）；
 	2、服务端B发送SYN+ACK报文，ACK=X+1（根据客户机发送的seq而定），Seq=Y；
@@ -67,6 +66,17 @@ TCP的四次挥手
 
 ARP协议？
 	地址解析协议：Address Resolution Protocol，根据IP地址获取物理mac地址的一个TCP/IP协议。
+
+
+
+DNS域名解析？
+	通过DNS服务器来解析域名和IP的对应关系，将域名变成IP地址。
+
+
+	
+
+
+
 
 
 
