@@ -2,12 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f384817-9be9-48af-a3f1-39ca76e9fe35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python面试题目整理/python实现常见.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/并发编程复习重点.txt" beforeDir="false" afterPath="$PROJECT_DIR$/py开发复习重点整理/并发编程复习重点.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据库复习重点.txt" beforeDir="false" afterPath="$PROJECT_DIR$/py开发复习重点整理/数据库复习重点.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/网络编程复习重点.txt" beforeDir="false" afterPath="$PROJECT_DIR$/py开发复习重点整理/网络编程复习重点.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/软件测试基础知识.txt" beforeDir="false" afterPath="$PROJECT_DIR$/py开发复习重点整理/软件测试基础知识.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python全栈总结/ajax.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python全栈总结/bootstrap.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python全栈总结/django权限登录及注册.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python全栈总结/django框架.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python全栈总结/html和css.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python全栈总结/javascript.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python全栈总结/jquery.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python全栈总结/函数.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python全栈总结/存在的问题.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python全栈总结/并发编程.sublime-workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python全栈总结/并发编程.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python全栈总结/数据库.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python全栈总结/数据结构.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python全栈总结/简历内容.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python全栈总结/网络编程.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python全栈总结/虚拟环境.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python全栈总结/计算机基础.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python全栈总结/面向对象.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python面试题目整理/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python面试题目整理/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python面试题目整理/python实现常见.py" beforeDir="false" afterPath="$PROJECT_DIR$/python面试题目整理/python实现常见算法.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +31,68 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python_review$demo.coverage" NAME="demo Coverage Results" MODIFIED="1545560764489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python面试题目整理" />
     <SUITE FILE_PATH="coverage/python_review$python.coverage" NAME="python实现常见 Coverage Results" MODIFIED="1545484409596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python面试题目整理" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <splitter split-orientation="horizontal" split-proportion="0.46852645">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/python面试题目整理/1-面试题之python基础.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="280">
+                  <caret line="289" column="4" selection-start-line="289" selection-start-column="4" selection-end-line="289" selection-end-column="4" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/python面试题目整理/单例模式.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret line="96" column="28" selection-start-line="96" selection-start-column="28" selection-end-line="96" selection-end-column="28" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/python面试题目整理/实现一个装饰器.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="6" selection-start-column="6" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/python面试题目整理/python实现常见算法.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-7">
+                  <caret line="58" column="11" selection-start-line="62" selection-end-line="63" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/python面试题目整理/demo.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="282">
+                  <caret line="25" selection-start-line="25" selection-end-line="25" />
+                  <folding>
+                    <element signature="e#374#383#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,13 +121,15 @@
         <option value="$PROJECT_DIR$/python面试题目整理/单例模式.py" />
         <option value="$PROJECT_DIR$/python面试题目整理/python实现常见.py" />
         <option value="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/HTML-JavaScript.html.js" />
+        <option value="$PROJECT_DIR$/python面试题目整理/demo.py" />
+        <option value="$PROJECT_DIR$/python面试题目整理/1-面试题之python基础.txt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="47" />
     <option name="y" value="22" />
-    <option name="width" value="1257" />
+    <option name="width" value="1393" />
     <option name="height" value="840" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -108,7 +183,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.demo">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_review" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python面试题目整理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python面试题目整理/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="python实现常见" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_review" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,7 +219,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python面试题目整理/python实现常见.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python面试题目整理/python实现常见算法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,6 +230,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo" />
         <item itemvalue="Python.python实现常见" />
       </list>
     </recent_temporary>
@@ -149,22 +247,33 @@
       <updated>1545450599433</updated>
       <workItem from="1545450600922" duration="1054000" />
       <workItem from="1545467362905" duration="10000" />
-      <workItem from="1545467392868" duration="7082000" />
+      <workItem from="1545467392868" duration="7446000" />
+      <workItem from="1545559865445" duration="263000" />
+      <workItem from="1545560320417" duration="1286000" />
     </task>
+    <task id="LOCAL-00001" summary="题目复习">
+      <created>1545487038274</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545487038274</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8146000" />
+    <option name="totallyTimeSpent" value="10059000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="47" y="22" width="1257" height="840" extended-state="0" />
+    <frame x="0" y="22" width="1440" height="829" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17366256" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.15396003" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27673796" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45997286" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -173,7 +282,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.52005345" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.5183175" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -185,32 +294,13 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="题目复习" />
+    <option name="LAST_COMMIT_MESSAGE" value="题目复习" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/python面试题目整理/python实现快排序.py" />
-    <entry file="file://$PROJECT_DIR$/python面试题目整理/实现一个装饰器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python面试题目整理/单例模式.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="96" column="28" selection-start-line="96" selection-start-column="28" selection-end-line="96" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python面试题目整理/python实现常见.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="64" column="29" lean-forward="true" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.numbers">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test.numbers" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/HTML-JavaScript.html.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -225,6 +315,51 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/CSV-Groovy.csv.groovy">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python面试题目整理/单例模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="96" column="28" selection-start-line="96" selection-start-column="28" selection-end-line="96" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python面试题目整理/实现一个装饰器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python面试题目整理/python实现常见算法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="58" column="11" selection-start-line="62" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-927624930/gc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="231" selection-start-line="231" selection-end-line="231" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python面试题目整理/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#374#383#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python面试题目整理/1-面试题之python基础.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="289" column="4" selection-start-line="289" selection-start-column="4" selection-end-line="289" selection-end-column="4" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
